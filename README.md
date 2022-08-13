@@ -11,6 +11,11 @@ Since this is my capstone, I want to deep dive into a specific skill and give a 
 ### Problem Statement: 
 
  - What are the features of a listing which contribute most to the pricing? 
+ 
+Short answer: 
+Room type more specifically private room, how many people the listing accommodates, & neighborhood
+
+Long answer: 
 According to the correlation of features, the top five factors which contribute most to predicting price are how many people the Air Bnb accommodates, bedroom count, availability in three different windows of time and bathroom count sandwiched in the middle of availability windows. In addition to looking at correlation, I used a tool from SckitLearn called SelectKBest which pulls out the best features for a regression model to use, the features selected by this tool were similar to the highly correlated features with some exceptions like host id and calculated host listing count.  
 
 With varying levels of weight, the models both equate private room as being one of the most important features affecting price. Then XGBRegressor lists hotel room, shared room, and how many people the unit accommodates as the next three most important features affecting the listing price. While RandomForestRegressor lists accommodates, availability of the unit within a year's time, and the latitude/longitude of the unit as the most important features affecting price. Although I chose XGBRegressor as my final model based off the metrics, I find the feature importance of RandomForestRegressor to be a much more intuitive bundle of results, but I digress. 
