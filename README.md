@@ -2,12 +2,11 @@
 
 ### Introduction: 
 
-With the majority of work becoming remote, this opens up the opportunity for working in any environment with a quiet corner and dependable Wifi. In fact, one of the draws I find for working in the tech industry is the freedom of melding travel and work together. AirBnb's platform is increasingly becoming an avenue of not just vacation rentals, but short term accomodation to give guests an opportunity live and work in a new city or new part of the world for more than a long weekend. 
+With the majority of work becoming remote, this opens up the opportunity for working in any environment with a quiet corner and dependable Wifi. In fact, one of the draws I find for working in the tech industry is the freedom of melding travel and work together. AirBnb's platform is increasingly becoming an avenue of not just vacation rentals, but short term accommodation to give guests an opportunity live and work in a new city or new part of the world for more than a long weekend.
 
-With this being said, I wanted to prepare some findings on what features affect the pricing of an Air Bnb listing to help potential hosts increase the value or appeal of their listing.
+With this being said, I wanted to prepare some findings on what features affect the pricing of an AirBnb listing to help potential hosts increase the value or appeal of their listing.
 
-Since this is my capstone, I want to deep dive into a specific skill and give a thorough analysis basing my decisions off EDA and statistical reasoning. As a result, I will deep dive into pricing predictions because I enjoyed doing price predictions with the Ames, IA dataset; however, I believe some of my assumptions during EDA and modeling were ancedotal, so I would like to revisit the concept to see how much progress I've made since this project. 
-   
+Since this is my capstone, I want to deep dive into a specific skill and give a thorough analysis basing my decisions on EDA and statistical reasoning. As a result, I will deep dive into pricing predictions because I enjoyed doing price predictions with the Ames, IA dataset; however, I believe some of my assumptions during EDA and modeling were anecdotal, so I would like to revisit the concept to see how much progress I've made since this project.
 ### Problem Statement: 
 
  - What are the features of a listing which contribute most to the pricing? 
