@@ -2,7 +2,7 @@
 
 ### Introduction: 
 
-With the majority of work becoming remote, this opens up the opportunity for working in any environment with a quiet corner and dependable Wifi. In fact, one of the draws I find for working in the tech industry is the freedom of melding travel and work together. AirBnb's platform is increasingly becoming an avenue of not just vacation rentals, but short term accommodation to give guests an opportunity live and work in a new city or new part of the world for more than a long weekend.
+With the majority of work becoming remote, this opens up the opportunity for working in any environment with a quiet corner and dependable Wifi. In fact, one of the draws I find for working in the tech industry is the freedom of melding travel and work together. AirBnb's platform is increasingly becoming an avenue of not just vacation rentals, but short term accommodation to give guests an opportunity to live and work in a new city or new part of the world for more than a long weekend.
 
 With this being said, I wanted to prepare some findings on what features affect the pricing of an AirBnb listing to help potential hosts increase the value or appeal of their listing.
 
